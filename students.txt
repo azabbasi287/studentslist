@@ -1,8 +1,0 @@
-39910241054049,AminBeyAfendemJanem,profserofcomputer,20.00
-30910241054544,Amir Zorrieh Abbasi,Civil,19.50
-399103256453,mahya,mamayi,18.90
-39910241054101,mahsa,zaban,18.50
-39910241054141,Nima Ezzati,Computer Eng.,14.50
-39910241054185,Saman Rigi,Elc Eng.,12.32
-32,a,a,1.00
-1,a,a,1.00
